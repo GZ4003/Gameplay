@@ -2,4 +2,4 @@
 
 *Have a good day*
 
-![image]("./public/pic.jpg")
+![image](./public/pic.jpg)
